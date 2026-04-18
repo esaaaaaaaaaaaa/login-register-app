@@ -30,4 +30,4 @@
 
 
 ## 🚀 Link Expo Snack
-https://snack.expo.dev/ISI_LINK_KAMU
+https://snack.expo.dev/@esaagapesby/witty-yellow-apple

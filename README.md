@@ -20,13 +20,13 @@
 ## 📸 Capture Program
 
 ### 🔹 Login Screen
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### 🔹 Register Screen
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ### 🔹 Home Screen
-![Home](screenshots/home.png)
+![Home](home.png)
 
 
 ## 🚀 Link Expo Snack
